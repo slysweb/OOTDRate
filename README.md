@@ -29,4 +29,16 @@ Practicality & Comfort (2 points)
 Trend Awareness (2 points)
  How well the look aligns with current or intentional fashion trends.
 
+# Outfit Gallery
+This is a collection of publicly released clothing items and their commentary, including celebrity red carpet photos, movie stills, street style photos, and selfies of outfits taken by netizens.
+
+# Clothing Tags
+The clothing items are categorized into different types, covering almost all clothing styles. You can quickly find items that interest you and see how others style them.
+
+# My Gallery
+Your personal collection of all outfits, including those visible only to yourself. Supports searching by date and generating and downloading outfit cards.
+
+# Websiite
+https://www.ootd-rate.com/
+
 All about ootd-rate.com
