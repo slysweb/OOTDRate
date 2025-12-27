@@ -15,7 +15,7 @@ Sharp-tongued Critique - Brutally honest, harsh rating
 
 AI Analytics - Detailed item analysis without rating
 
-# Evaluation criteria
+# Evaluation Criteria
 Fit & Proportion (2 points)
  How balanced and well-fitted the outfit appears overall.
  
