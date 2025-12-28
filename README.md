@@ -52,4 +52,9 @@ Your personal collection of all outfits, including those visible only to yoursel
 # Website
 Try OOTD Rate on: https://www.ootd-rate.com/
 
+# Samples
+![Normal Rating](samples/normal-rating.png)
+![Sharp-tongued Critique](samples/sharp-tongued-critique.png)
+
+
 All about ootd-rate.com
