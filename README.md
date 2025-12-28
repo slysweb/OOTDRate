@@ -33,8 +33,11 @@ Trend Awareness (2 points)
 
 # Notice:
 *No NSFW content. You can upload sexy pictures, but you cannot upload revealing or pornographic pictures.
+
 *The score and feedback cannot be modified.
+
 *The "sharp-tongued" mode is more for entertainment than practical use.
+
 *The ratings are for reference only. AI cannot replace humans; your own subjective feelings are the most important.
 
 # Outfit Gallery
