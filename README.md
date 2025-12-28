@@ -53,8 +53,8 @@ Your personal collection of all outfits, including those visible only to yoursel
 Try OOTD Rate on: https://www.ootd-rate.com/
 
 # Samples
-![Normal Rating](samples/normal-rating.png)
-![Sharp-tongued Critique](samples/sharp-tongued-critique.png)
+<img src="samples/normal-rating.png" alt="Normal Rating" width="300px">
+<img src="samples/sharp-tongued-critique.png" alt="Sharp-tongued Critique" width="300px">
 
 
 All about ootd-rate.com
