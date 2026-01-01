@@ -146,7 +146,7 @@ One of the biggest misconceptions in outfit rating:
 AI rewards **editing**, not excess.
 
 This is why simple outfits often outperform trendy ones:
-- [{% post_url 2025-02-12-why-simple-outfits-score-higher-than-trendy-looks %}]
+- [Why Some Simple Outfits Score Higher Than Trendy Looks](../why-simple-outfits-score-higher-than-trendy-looks)
 
 ---
 
@@ -179,10 +179,10 @@ You need:
 - Better presentation
 
 If you want a fast, practical method, follow:
-- [{% post_url 2025-02-18-how-to-improve-your-outfit-rating-in-10-minutes %}]
+- [How to Improve Your Outfit Rating in 10 Minutes](../how-to-improve-your-outfit-rating-in-10-minutes)
 
 And if you want to understand the system logic behind all this:
-- [{% post_url 2025-02-10-how-ai-rates-your-outfit %}]
+- [How AI Rates Your Outfit](../how-ai-rates-your-outfit)
 
 ---
 

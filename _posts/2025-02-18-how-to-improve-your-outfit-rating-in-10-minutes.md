@@ -181,10 +181,10 @@ They don’t reward excess effort — they reward **clear decisions**.
 That’s why simple, thoughtful changes outperform last-minute trend stacking.
 
 If you want to understand the logic behind this, start with:
-- [{% post_url 2025-02-10-how-ai-rates-your-outfit %}]
+- [How AI Rates Your Outfit](../how-ai-rates-your-outfit)
 
 And if you’re surprised that minimal looks often win, this explains why:
-- [{% post_url 2025-02-12-why-simple-outfits-score-higher-than-trendy-looks %}]
+- [Why Some Simple Outfits Score Higher Than Trendy Looks](../why-simple-outfits-score-higher-than-trendy-looks)
 
 ---
 

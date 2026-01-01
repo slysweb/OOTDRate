@@ -77,7 +77,7 @@ This includes:
 Outfits with strong structure tend to score higher — even if they’re simple.
 
 This explains why minimal looks often outperform trendy ones:
-- [{% post_url 2025-02-12-why-simple-outfits-score-higher-than-trendy-looks %}]
+- [Why Some Simple Outfits Score Higher Than Trendy Looks](../why-simple-outfits-score-higher-than-trendy-looks/)
 
 ---
 
@@ -138,7 +138,7 @@ High-scoring outfits usually:
 - Feel edited, not accidental
 
 This is the key difference between a **7 and a 9**:
-- [{% post_url 2025-02-20-outfit-rating-score-breakdown-what-9-vs-7-means %}]
+- [Outfit Rating Score Breakdown: What a 9 vs 7 Really Means](../outfit-rating-score-breakdown-what-9-vs-7-means/)
 
 ---
 
@@ -165,10 +165,10 @@ Knowing how AI calculates outfit ratings lets you:
 - Improve faster without buying more clothes
 
 If you want a fast, practical method, follow:
-- [{% post_url 2025-02-18-how-to-improve-your-outfit-rating-in-10-minutes %}]
+- [How to Improve Your Outfit Rating in 10 Minutes](../how-to-improve-your-outfit-rating-in-10-minutes)
 
 And if you want the full foundation:
-- [{% post_url 2025-02-10-how-ai-rates-your-outfit %}]
+- [How AI Rates Your Outfit](../how-ai-rates-your-outfit)
 
 ---
 
