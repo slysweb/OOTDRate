@@ -145,10 +145,10 @@ If the answer is “yes” to most of these, your outfit rating will likely impr
 If you haven’t read them yet, these two guides will help you go deeper:
 
 - Learn the fundamentals in  
-  [{% post_url 2025-02-10-how-ai-rates-your-outfit %}]
+  [How AI Rates Your Outfit](../how-ai-rates-your-outfit)
 
 - Understand why minimal looks perform so well in  
-  [{% post_url 2025-02-12-why-simple-outfits-score-higher-than-trendy-looks %}]
+  [Why Some Simple Outfits Score Higher Than Trendy Looks](../why-simple-outfits-score-higher-than-trendy-looks)
 
 Together, these articles form a complete introduction to **AI fashion and outfit rating**.
 

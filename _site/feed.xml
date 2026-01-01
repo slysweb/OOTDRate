@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2026-01-01T17:03:51+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">OOTD Rate Blog</title><subtitle>AI-powered outfit rating, fashion analysis &amp; style inspiration</subtitle><entry><title type="html">How AI Outfit Rating Scores Are Calculated (Without the Math)</title><link href="http://localhost:4000/ai/fashion/how-ai-outfit-rating-scores-are-calculated/" rel="alternate" type="text/html" title="How AI Outfit Rating Scores Are Calculated (Without the Math)" /><published>2025-02-22T00:00:00+08:00</published><updated>2025-02-22T00:00:00+08:00</updated><id>http://localhost:4000/ai/fashion/how-ai-outfit-rating-scores-are-calculated</id><content type="html" xml:base="http://localhost:4000/ai/fashion/how-ai-outfit-rating-scores-are-calculated/"><![CDATA[<p>When people see an <strong>outfit rating</strong>, the first reaction is often:</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2026-01-01T17:13:51+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">OOTD Rate Blog</title><subtitle>AI-powered outfit rating, fashion analysis &amp; style inspiration</subtitle><entry><title type="html">How AI Outfit Rating Scores Are Calculated (Without the Math)</title><link href="http://localhost:4000/ai/fashion/how-ai-outfit-rating-scores-are-calculated/" rel="alternate" type="text/html" title="How AI Outfit Rating Scores Are Calculated (Without the Math)" /><published>2025-02-22T00:00:00+08:00</published><updated>2025-02-22T00:00:00+08:00</updated><id>http://localhost:4000/ai/fashion/how-ai-outfit-rating-scores-are-calculated</id><content type="html" xml:base="http://localhost:4000/ai/fashion/how-ai-outfit-rating-scores-are-calculated/"><![CDATA[<p>When people see an <strong>outfit rating</strong>, the first reaction is often:</p>
 
 <blockquote>
   <p>“Okay… but how did AI come up with that number?”</p>
@@ -854,11 +854,11 @@ It takes intention.</p>
 <ul>
   <li>
     <p>Learn the fundamentals in<br />
-[/ai/fashion/how-ai-rates-your-outfit/]</p>
+<a href="../how-ai-rates-your-outfit">How AI Rates Your Outfit</a></p>
   </li>
   <li>
     <p>Understand why minimal looks perform so well in<br />
-[/ai/fashion/why-simple-outfits-score-higher-than-trendy-looks/]</p>
+<a href="../why-simple-outfits-score-higher-than-trendy-looks">Why Some Simple Outfits Score Higher Than Trendy Looks</a></p>
   </li>
 </ul>
 
