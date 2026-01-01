@@ -52,6 +52,8 @@ Your personal collection of all outfits, including those visible only to yoursel
 # Website
 Try OOTD Rate on: https://www.ootd-rate.com/
 
+OOTD Rate Blog: https://blog.ootd-rate.com/
+
 # Samples
 Normal Rating: 
 
