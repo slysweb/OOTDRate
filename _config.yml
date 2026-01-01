@@ -1,7 +1,7 @@
 title: OOTD Rate Blog
 description: AI-powered outfit rating, fashion analysis & style inspiration
 url: https://blog.ootd-rate.com
-
+permalink: /:categories/:title/
 
 lang: en
 theme: minima
